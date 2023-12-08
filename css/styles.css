@@ -3639,7 +3639,7 @@ td:last-child {
 }
 
 .s-intro__content-title {
-	font-size    : clamp(2rem, 3vw, 3rem);
+	font-size    : clamp(1rem, 2vw, 2.5rem);
 	line-height  : 1;
 	margin-top   : 0;
 	margin-bottom: var(--vspace-1_25);
