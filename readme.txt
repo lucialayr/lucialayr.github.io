@@ -9,7 +9,7 @@ This is the personal website of Lucia Layritz
 
 LICENSE:
 
-This free resource is provided by styleshout.com and is free to use in 
+The template used is provided by styleshout.com and is free to use in 
 both personal and commercial projects.
 
 
