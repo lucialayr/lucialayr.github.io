@@ -8,10 +8,7 @@ pagetitle: "Science — Lucia S. Layritz"
   <p class="category">Science</p>
   <h1>Research</h1>
   <p style="max-width:600px; color:#444; margin-top:0.8rem;">
-    My research explores how ecosystems recover after disturbances — wildfires, armed conflict, 
-    and land-use change — under shifting climates. I combine dynamic vegetation modelling, 
-    remote sensing, and statistical approaches to understand resilience and inform 
-    climate adaptation strategies.
+    My research explores how ecosystems recover after disturbances under shifting climates. I combine dynamic vegetation modelling, remote sensing, and statistical approaches to understand resilience and inform climate adaptation strategies.
   </p>
 </div>
 ```
