@@ -1,0 +1,20 @@
+{
+  "photography.qmd": {
+    "photography.html": "bc4f6c95"
+  },
+  "science.qmd": {
+    "science.html": "0b905dc8"
+  },
+  "index.qmd": {
+    "index.html": "58f8dbe2"
+  },
+  "software.qmd": {
+    "software.html": "166b329e"
+  },
+  "writing.qmd": {
+    "writing.html": "d29cfb0b"
+  },
+  "dataviz.qmd": {
+    "dataviz.html": "e924389e"
+  }
+}

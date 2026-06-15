@@ -1,0 +1,60 @@
+---
+title: ""
+pagetitle: "Software — Lucia S. Layritz"
+---
+
+```{=html}
+<div class="page-header">
+  <p class="category">Software</p>
+  <h1>Software</h1>
+  <p style="max-width:600px; color:#444; margin-top:0.8rem;">
+    Open-source code accompanying research papers, side projects, and tools. 
+    Most work is in R and Python; some JavaScript.
+  </p>
+</div>
+
+<div class="project-grid">
+
+  <a href="https://github.com/lucialayr/disturbanceBorealLPJ" target="_blank" style="border-bottom:none;">
+    <div class="project-card">
+      <p class="lang">R</p>
+      <h3>disturbanceBorealLPJ</h3>
+      <p>Reproduction code for the boreal forest disturbance and climate change paper (Biogeosciences, 2025).</p>
+    </div>
+  </a>
+
+  <a href="https://github.com/lucialayr/stableEWS_paper" target="_blank" style="border-bottom:none;">
+    <div class="project-card">
+      <p class="lang">R</p>
+      <h3>stableEWS_paper</h3>
+      <p>Reproduction of the early warning signs paper — tipping points with non-Gaussian-stable noise (Scientific Reports, 2025).</p>
+    </div>
+  </a>
+
+  <a href="https://github.com/lucialayr/alphastableTransient" target="_blank" style="border-bottom:none;">
+    <div class="project-card">
+      <p class="lang">Jupyter / Python</p>
+      <h3>alphastableTransient</h3>
+      <p>Code for "Disturbances and long transients create illusion of stable states".</p>
+    </div>
+  </a>
+
+
+  <a href="https://github.com/lucialayr/borealRecovery" target="_blank" style="border-bottom:none;">
+    <div class="project-card">
+      <p class="lang">R</p>
+      <h3>borealRecovery</h3>
+      <p>Analysis code for post-disturbance boreal forest recovery modelling.</p>
+    </div>
+  </a>
+
+  <a href="https://github.com/lucialayr/backgammon" target="_blank" style="border-bottom:none;">
+    <div class="project-card">
+      <p class="lang">JavaScript</p>
+      <h3>backgammon</h3>
+      <p>A simple interactive backgammon board in the browser.</p>
+    </div>
+  </a>
+
+</div>
+```

@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Lucia S. Layritz"
+  favicon: assets/images/favicon.png
+  navbar:
+    left:
+      - text: "Overview"
+        href: index.qmd
+      - text: "Science"
+        href: science.qmd
+      - text: "Communication"
+        href: writing.qmd
+      - text: "Data Visualisation"
+        href: dataviz.qmd
+      - text: "Photography"
+        href: photography.qmd
+      - text: "Software"
+        href: software.qmd
+    right:
+      - icon: github
+        href: https://github.com/lucialayr
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lucialayr/
+        aria-label: LinkedIn
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/css/theme.scss
+    css: assets/css/style.css
+    toc: false
+    page-layout: full
+    grid:
+      body-width: 860px

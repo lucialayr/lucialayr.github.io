@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "dataviz.html",
+    "href": "dataviz.html",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "Data Visualisation\n  Data Visualisation\n  \n    Selected visualisation projects, I did for fun, for class, or for freelance work. The Guardian Australia featured one of my TidyTuesday visualisations on Scottish Munros in their biweekly data-viz best-of a while ago.\n  \n\n\n\n\n\n  \n    \n      \n    \n    \n      TidyTuesday\n      Weekly data visualisation practice in R.\n      GitHub →"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Software\n  Software\n  \n    Open-source code accompanying research papers, side projects, and tools. \n    Most work is in R and Python; some JavaScript.\n  \n\n\n\n\n  \n    \n      R\n      disturbanceBorealLPJ\n      Reproduction code for the boreal forest disturbance and climate change paper (Biogeosciences, 2025).\n    \n  \n\n  \n    \n      R\n      stableEWS_paper\n      Reproduction of the early warning signs paper — tipping points with non-Gaussian-stable noise (Scientific Reports, 2025).\n    \n  \n\n  \n    \n      Jupyter / Python\n      alphastableTransient\n      Code for \"Disturbances and long transients create illusion of stable states\".\n    \n  \n\n\n  \n    \n      R\n      borealRecovery\n      Analysis code for post-disturbance boreal forest recovery modelling.\n    \n  \n\n  \n    \n      JavaScript\n      backgammon\n      A simple interactive backgammon board in the browser."
+  },
+  {
+    "objectID": "science.html",
+    "href": "science.html",
+    "title": "Research",
+    "section": "",
+    "text": "Science\n  Research\n  \n    My research explores how ecosystems recover after disturbances — wildfires, armed conflict, \n    and land-use change — under shifting climates. I combine dynamic vegetation modelling, \n    remote sensing, and statistical approaches to understand resilience and inform \n    climate adaptation strategies.\n  \n\n\nPublications\n\n\n  \n    2025\n    Early warning signs for tipping points in systems with non-Gaussian-stable noise.\n    Scientific Reports ·\n    doi\n  \n\n  \n    2025\n    Disentangling future effects of climate change and forest disturbance on vegetation composition and land surface properties of the boreal forest.\n    Biogeosciences ·\n    doi\n  \n\n  \n    2024\n    Frost matters: Incorporating late-spring frost in a dynamic vegetation model regulates regional productivity dynamics in European beech forests.\n    Biogeosciences ·\n    doi\n  \n\n  \n    2022\n    Quantifying the impacts of land cover change on gross primary productivity globally.\n    Scientific Reports ·\n    doi\n  \n\n  \n    2021\n    The potential of direct steam cracker electrification and carbon capture & utilization via oxidative coupling of methane as decarbonization strategies for the chemical industry.\n    Applied Energy ·\n    doi\n  \n\n\n\n\nPreprints & Conference Contributions\n\nEarly warning signs of critical transitions — The α-stable case. arXiv, 2023. arXiv:2311.16350\nIntegrating future climate projections into post-fire management: A stochastic decision-support toolbox for adaptation in arid ecosystems. EGU, 2026.\nPost-fire recovery and the role of armed conflict in the Eastern Mediterranean — A case study in Lebanon. EGU General Assembly, 2025.\n\nGoogle Scholar →"
+  },
+  {
+    "objectID": "photography.html",
+    "href": "photography.html",
+    "title": "Photography",
+    "section": "",
+    "text": "Photography\n  Photography\n  \n    Shot with a Canon AE1, mostly on Kodak Gold 200 film, and developed by Underdog Film Lab in Oakland, California."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lucia S. Layritz",
+    "section": "",
+    "text": "Researcher · Writer · Data Scientist\n  Lucia S. Layritz\n  \n    I study the impact of climate change on ecosystem regeneration after disturbances — \n    wildfires, armed conflicts, and other disruptions — by integrating ecosystem modelling, \n    remote sensing, and statistical analysis. My work aims to inform strategies for \n    climate adaptation and ecological resilience.\n  \n  \n    Currently a postdoctoral researcher at the \n    Eric & Wendy Schmidt Center for Data Science and Environment, \n    UC Berkeley. I like probabilities, maps, and making science look beautiful.\n  \n  \n    Science\n    Writing & Editing\n    Data Visualisation\n    Photography\n    Software\n  \n\n\n\nCurrent Position\nPostdoctoral Researcher, Eric & Wendy Schmidt Center for Data Science and Environment, UC Berkeley. Supporting the National Park Service Climate Change Decision Support project.\n\n\nEducation\n\nPhD Life Science — Technical University of Munich\nMSc Mathematical Modelling — King’s College London, UK\nMSc Environmental Science and Engineering — Technical University of Berlin, Germany\nResearch stays: Potsdam Institute for Climate Impact Research · American University of Beirut"
+  },
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Communication",
+    "section": "",
+    "text": "Communication\n  Communication\n  \n    I write, edit, and sketch about my science to a variety of audiences. I particularly care about communicating an intuition for climare science and modeling without using a lot of maths. \n  \n\n\nBook on Klimamodellierung verstehen (Understanding Climate Modeling)\nI co-wrote and illustrated a popular science text book on climate modeling, to be published in German by Springer Nature in Summer of 2026. The book is intended for a general audience, and covers the basics of climate modeling, how models work, and what they can and cannot do. Fingers crossed for an English edition in the future!\n\n\n\nEditor-in-Chief — EGU Biogeosciences Blog\nSince 2024, I am serving as the Editor-in-Chief for the European Geosciences Union’s Biogeosciences Division blog. I lead a team of four topical editors to maintain the blog as a space for and by the Biogeosciences community. If you’re interested in writing for the blog, please reach out to me at lucialayr@berkeley.edu.\n\n\n\nPublic Writing\nThe existential modelling crisis – and how to overcome it A reflection of modeling as a scientific practice, and how approach it as a PhD Student. GeoLogs, 2025. https://blogs.egu.eu/geolog/2025/09/05/the-existential-modelling-crisis-and-how-to-overcome-it/\n“Was unterm Strich zählt” (What counts in the end)\npolitische ökologie/ political ecology, issue 02/2020\nA lifecycle analysis of plastic emissions — examining what the numbers actually mean for policy and production."
+  }
+]
