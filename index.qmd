@@ -5,17 +5,20 @@ pagetitle: "Lucia S. Layritz"
 
 ```{=html}
 <div class="hero">
-  <h3>Lucia S. Layritz</h3>
-  <p class="bio">
 
 Hi, I am Lucia and I am a climate scientist currently based at UC Berkeley.
 
-I am broadly interested in modelling the impact of extreme events on the coupled land surface - atmosphere system, especially the impact of wildfire and otehr ecosystem disturbances onf vegetation, and the impact of climate change on ecosystem regeneration.
+&thinsp;
+
+I am broadly interested in modelling the impact of extreme events on the coupled land surface - atmosphere system, especially the impact of wildfire and other ecosystem disturbances on vegetation, and the impact of climate change on ecosystem regeneration.
+
+&thinsp;
 
 My research employs complex Global Dynamic Vegetation Models as well as low- dimensional stochastic dynamical systems, where I am particularly interested in heavy-tailed data and model uncertainty across scales.  
 
-My work aims to inform strategies for climate adaptation and ecological resilience, and I work closely with land managers and ecologist in U.S. National Parks across the Western US.
+&thinsp;
 
+My work aims to inform strategies for climate adaptation and ecological resilience, and I work closely with land managers and ecologist in U.S. National Parks across the Western US.
 
 ```
 
