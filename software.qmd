@@ -13,37 +13,31 @@ pagetitle: "Software — Lucia S. Layritz"
   </p>
 </div>
 
-<div class="project-grid">
-
-  <div class="project-card">
-    <p class="lang">R</p>
-    <h3><a href="https://github.com/lucialayr/disturbanceBorealLPJ" target="_blank">disturbanceBorealLPJ</a></h3>
-    <p>Code reproducing Layritz et al., Biogeosciences, 2025. <a href="https://doi.org/10.5194/bg-22-3635-2025" target="_blank">doi:10.5194/bg-22-3635-2025</a></p>
-  </div>
-
-  <div class="project-card">
-    <p class="lang">R</p>
-    <h3><a href="https://github.com/lucialayr/borealRecovery" target="_blank">borealRecovery</a></h3>
-    <p>Code reproducing Layritz et al., JGR Biogeosciences, 2026.</p>
-  </div>
-
-  <div class="project-card">
-    <p class="lang">R</p>
-    <h3><a href="https://github.com/lucialayr/stableEWS_paper" target="_blank">stableEWS_paper</a></h3>
-    <p>Code reproducing Layritz et al., Scientific Reports, 2025. <a href="https://doi.org/10.1038/s41598-025-88659-0" target="_blank">doi:10.1038/s41598-025-88659-0</a></p>
-  </div>
-
-  <div class="project-card">
-    <p class="lang">Jupyter Notebook</p>
-    <h3><a href="https://github.com/lucialayr/alphastableTransient" target="_blank">alphastableTransient</a></h3>
-    <p>Code to reproduce "Disturbances and long transients create illusion of stable states".</p>
-  </div>
-
-  <div class="project-card">
-    <p class="lang">R</p>
-    <h3><a href="https://github.com/lucialayr/TidyTuesday" target="_blank">TidyTuesday</a></h3>
-    <p>A collection of data visualisations made for the weekly #TidyTuesday challenge in R.</p>
-  </div>
-
-</div>
+<ul class="repo-list">
+  <li>
+    <span class="lang">R</span>
+    <a href="https://github.com/lucialayr/disturbanceBorealLPJ" target="_blank">disturbanceBorealLPJ</a>
+    <span class="repo-desc">Code reproducing Layritz et al., Biogeosciences, 2025. <a href="https://doi.org/10.5194/bg-22-3635-2025" target="_blank">doi:10.5194/bg-22-3635-2025</a></span>
+  </li>
+  <li>
+    <span class="lang">R</span>
+    <a href="https://github.com/lucialayr/borealRecovery" target="_blank">borealRecovery</a>
+    <span class="repo-desc">Code reproducing Layritz et al., JGR Biogeosciences, 2026.</span>
+  </li>
+  <li>
+    <span class="lang">R</span>
+    <a href="https://github.com/lucialayr/stableEWS_paper" target="_blank">stableEWS_paper</a>
+    <span class="repo-desc">Code reproducing Layritz et al., Scientific Reports, 2025. <a href="https://doi.org/10.1038/s41598-025-88659-0" target="_blank">doi:10.1038/s41598-025-88659-0</a></span>
+  </li>
+  <li>
+    <span class="lang">Jupyter</span>
+    <a href="https://github.com/lucialayr/alphastableTransient" target="_blank">alphastableTransient</a>
+    <span class="repo-desc">Code to reproduce "Disturbances and long transients create illusion of stable states".</span>
+  </li>
+  <li>
+    <span class="lang">R</span>
+    <a href="https://github.com/lucialayr/TidyTuesday" target="_blank">TidyTuesday</a>
+    <span class="repo-desc">A collection of data visualisations made for the weekly #TidyTuesday challenge in R.</span>
+  </li>
+</ul>
 ```

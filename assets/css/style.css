@@ -255,35 +255,42 @@ a:hover { border-bottom-color: var(--accent); opacity: 0.75; }
 }
 
 /* ---- SOFTWARE CARDS ---- */
-.project-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.2rem;
-  margin-top: 1.5rem;
+.repo-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+  border-top: 1px solid #e0e0e0;
 }
 
-
-.project-card {
-  border: 1px solid #e0e0e0;
-  padding: 1.4rem;
-  background: #fff;
-  transition: border-color 0.15s;
+.repo-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 0.8rem;
+  padding: 0.9rem 0;
+  border-bottom: 1px solid #e0e0e0;
+  flex-wrap: wrap;
 }
 
-.project-card:hover { border-color: var(--accent); }
+.repo-list .lang {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  flex-shrink: 0;
+  width: 5rem;
+}
 
-.project-card h3 {
-  font-size: 0.97rem;
+.repo-list a {
   font-weight: 600;
-  margin: 0 0 0.4rem;
+  font-size: 0.95rem;
+  flex-shrink: 0;
 }
 
-.project-card h3 a {
-  color: inherit;
-  text-decoration: none;
+.repo-list .repo-desc {
+  font-size: 0.88rem;
+  color: #555;
+  flex: 1 1 auto;
 }
-
-.project-card h3 a:hover { color: var(--accent); }
 
 .project-card .lang {
   font-size: 0.78rem;
