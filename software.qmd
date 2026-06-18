@@ -19,7 +19,15 @@ pagetitle: "Software — Lucia S. Layritz"
     <div class="project-card">
       <p class="lang">R</p>
       <h3>disturbanceBorealLPJ</h3>
-      <p>Reproduction code for the boreal forest disturbance and climate change paper (Biogeosciences, 2025).</p>
+      <p>Code reproducing Layritz et al., Biogeosciences, 2025. <a href="https://doi.org/10.5194/bg-22-3635-2025" target="_blank" onclick="event.stopPropagation()">doi:10.5194/bg-22-3635-2025</a></p>
+    </div>
+  </a>
+
+  <a href="https://github.com/lucialayr/borealRecovery" target="_blank" style="border-bottom:none;">
+    <div class="project-card">
+      <p class="lang">R</p>
+      <h3>borealRecovery</h3>
+      <p>Code reproducing Layritz et al., JGR Biogeosciences, 2026.</p>
     </div>
   </a>
 
@@ -27,32 +35,23 @@ pagetitle: "Software — Lucia S. Layritz"
     <div class="project-card">
       <p class="lang">R</p>
       <h3>stableEWS_paper</h3>
-      <p>Reproduction of the early warning signs paper — tipping points with non-Gaussian-stable noise (Scientific Reports, 2025).</p>
+      <p>Code reproducing Layritz et al., Scientific Reports, 2025. <a href="https://doi.org/10.1038/s41598-025-88659-0" target="_blank" onclick="event.stopPropagation()">doi:10.1038/s41598-025-88659-0</a></p>
     </div>
   </a>
 
   <a href="https://github.com/lucialayr/alphastableTransient" target="_blank" style="border-bottom:none;">
     <div class="project-card">
-      <p class="lang">Jupyter / Python</p>
+      <p class="lang">Jupyter Notebook</p>
       <h3>alphastableTransient</h3>
-      <p>Code for "Disturbances and long transients create illusion of stable states".</p>
+      <p>Code to reproduce "Disturbances and long transients create illusion of stable states".</p>
     </div>
   </a>
 
-
-  <a href="https://github.com/lucialayr/borealRecovery" target="_blank" style="border-bottom:none;">
+  <a href="https://github.com/lucialayr/TidyTuesday" target="_blank" style="border-bottom:none;">
     <div class="project-card">
       <p class="lang">R</p>
-      <h3>borealRecovery</h3>
-      <p>Analysis code for post-disturbance boreal forest recovery modelling.</p>
-    </div>
-  </a>
-
-  <a href="https://github.com/lucialayr/backgammon" target="_blank" style="border-bottom:none;">
-    <div class="project-card">
-      <p class="lang">JavaScript</p>
-      <h3>backgammon</h3>
-      <p>A simple interactive backgammon board in the browser.</p>
+      <h3>TidyTuesday</h3>
+      <p>A collection of data visualisations made for the weekly #TidyTuesday challenge in R.</p>
     </div>
   </a>
 
