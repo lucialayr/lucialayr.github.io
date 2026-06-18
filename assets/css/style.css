@@ -257,10 +257,11 @@ a:hover { border-bottom-color: var(--accent); opacity: 0.75; }
 /* ---- SOFTWARE CARDS ---- */
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.2rem;
   margin-top: 1.5rem;
 }
+
 
 .project-card {
   border: 1px solid #e0e0e0;

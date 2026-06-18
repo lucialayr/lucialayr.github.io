@@ -8,8 +8,8 @@ pagetitle: "Software — Lucia S. Layritz"
   <p class="category">Software</p>
   <h1>Software</h1>
   <p style="max-width:600px; color:#444; margin-top:0.8rem;">
-    Open-source code accompanying research papers, side projects, and tools. 
-    Most work is in R and Python; some JavaScript.
+    Code to reproduce all my first-author paper is available from my github. Should you need any primary data not hosted on Github or Zenodo or are unable to run any of the scripts, please reach out!
+
   </p>
 </div>
 
