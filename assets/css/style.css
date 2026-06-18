@@ -278,6 +278,13 @@ a:hover { border-bottom-color: var(--accent); opacity: 0.75; }
   margin: 0 0 0.4rem;
 }
 
+.project-card h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.project-card h3 a:hover { color: var(--accent); }
+
 .project-card .lang {
   font-size: 0.78rem;
   color: var(--accent);
