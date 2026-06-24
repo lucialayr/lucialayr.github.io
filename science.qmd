@@ -5,15 +5,21 @@ pagetitle: "Science — Lucia S. Layritz"
 
 My research explores how ecosystems recover after disturbances under shifting climates. I combine dynamic vegetation modelling, remote sensing, and statistical approaches to understand resilience and inform climate adaptation strategies.
 
+### In Review/ Submitted
+
+- Pottinger, A. S., Gondek, N., **Layritz, L. S.**, Zomer, M. A., Graver, N., Anderson-You, A., and Weltman-Fahs, M. Josh: *Efficient, Portable, and Scalable Cross-Disciplinary Vegetation Modeling via Domain-Specific Language.* 
+
+- **Layritz, L. S.**, Boettiger, C., Pavlyukevich, I., Kuehn, C., Rammig, A. *Apparent Bistability Masks Resilience in the Boreal Forest*.
+
 ### In press
 
 - **Layritz, L. S.**, Anand, M., Kim, J. E., Meyer, B. F., Gregor, K., Pugh, T. A. M., Boettiger, C., Buras, A., Rammig, A. *Warming drives large-scale shifts in post-disturbance vegetation dynamics and expansion of deciduous trees in the boreal forest in a dynamic vegetation model*. 2026. JGR Biogeosciences.
 
 ### Published
 
-- **Layritz, L. S.**, Rammig, A., Pavlyukevich, I., Kuehn, C. *Early warning signs for tipping points in systems with non-Gaussian-stable noise*. 2025. Scientific Reports. [https://doi.org/10.1038/s41598-025-88659-0](https://doi.org/10.1038/s41598-025-88659-0)
-
 - **Layritz, L. S.**, Gregor, K., Krause, A., Kruse, S., Meyer, B. F., Pugh, T., Rammig, A. *Disentangling future effects of climate change and forest disturbance on vegetation composition and land-surface properties of the boreal forest*. 2025. Biogeosciences. [https://doi.org/10.5194/bg-22-3635-2025](https://doi.org/10.5194/bg-22-3635-2025)
+
+- **Layritz, L. S.**, Rammig, A., Pavlyukevich, I., Kuehn, C. *Early warning signs for tipping points in systems with non-Gaussian-stable noise*. 2025. Scientific Reports. [https://doi.org/10.1038/s41598-025-88659-0](https://doi.org/10.1038/s41598-025-88659-0)
 
 - Meyer, B. F., Buras, A., Gregor, K., **Layritz, L. S.**, Principe, A., Kreyling, J., Rammig, A., Zang, C. S. *Frost matters: Incorporating late-spring frost in a dynamic vegetation model regulates regional productivity dynamics in European beech forests*. 2024. Biogeosciences. [https://doi.org/10.5194/bg-21-1355-2024](https://doi.org/10.5194/bg-21-1355-2024)
 
@@ -21,10 +27,5 @@ My research explores how ecosystems recover after disturbances under shifting cl
 
 - **Layritz, L. S.**, Dolganova, I., Finkbeiner, M., Luderer, G., Penteado, A. T., Ueckerdt, F., Repke, J. *The potential of direct steam cracker electrification and carbon capture & utilization via oxidative coupling of methane as decarbonization strategies for ethylene production*. 2021. Applied Energy. [https://doi.org/10.1016/j.apenergy.2021.117049](https://doi.org/10.1016/j.apenergy.2021.117049)
 
-### Preprints & Conference Contributions
-
-- Early warning signs of critical transitions — The α-stable case. *arXiv*, 2023. [arXiv:2311.16350](https://arxiv.org/abs/2311.16350)
-- Integrating future climate projections into post-fire management: A stochastic decision-support toolbox for adaptation in arid ecosystems. *EGU*, 2026.
-- Post-fire recovery and the role of armed conflict in the Eastern Mediterranean — A case study in Lebanon. *EGU General Assembly*, 2025.
 
 [Google Scholar →](https://scholar.google.com/citations?user=cACc1A4AAAAJ){target="_blank"}
