@@ -3,7 +3,8 @@ title: "Research"
 pagetitle: "Science — Lucia S. Layritz"
 ---
 
-My research explores how ecosystems recover after disturbances under shifting climates. I combine dynamic vegetation modelling, remote sensing, and statistical approaches to understand resilience and inform climate adaptation strategies.
+
+My research explores how ecosystems recover after disturbances under shifting climates. I work with both the Dynamic Vegetation Model LPJ-GUESS and low-dimensional stochastic models, as well as observational data from field campaigns and satellites. My work combines fundamental theoretical questions, for example regarding uncertainty propagation in stochastic systems, with highly applied collaborations with land managers such as the U.S. National Park Service. 
 
 ### In Review/ Submitted
 
