@@ -16,6 +16,8 @@ My research explores how ecosystems recover after disturbances under shifting cl
 
 - **Layritz, L. S.**, Anand, M., Kim, J. E., Meyer, B. F., Gregor, K., Pugh, T. A. M., Boettiger, C., Buras, A., Rammig, A. *Warming drives large-scale shifts in post-disturbance vegetation dynamics and expansion of deciduous trees in the boreal forest in a dynamic vegetation model*. 2026. JGR Biogeosciences.
 
+- Ellerhoff, B. & **Layritz, L. S.** *Klimamodellierung verstehen* (Understanding Climate Modeling). Book. 2026. Springer Nature.
+
 ### Published
 
 - **Layritz, L. S.**, Gregor, K., Krause, A., Kruse, S., Meyer, B. F., Pugh, T., Rammig, A. *Disentangling future effects of climate change and forest disturbance on vegetation composition and land-surface properties of the boreal forest*. 2025. Biogeosciences. [https://doi.org/10.5194/bg-22-3635-2025](https://doi.org/10.5194/bg-22-3635-2025)

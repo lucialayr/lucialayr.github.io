@@ -16,12 +16,11 @@ pagetitle: "Communication — Lucia S. Layritz"
 Since 2024, I am serving as the Editor-in-Chief for the European Geosciences Union's [Biogeosciences Division blog](https://blogs.egu.eu/divisions/bg/){target="_blank"}. I lead a team of four topical editors to maintain the blog as a space for and by the Biogeosciences community.
 If you're interested in [writing for the blog](https://blogs.egu.eu/divisions/bg/2026/01/15/writing-for-the-bg-blog/), please reach out to me at [lucialayr@berkeley.edu](mailto:lucialayr@berkeley.edu).
 
+![](assets/images/comms/Abb2.9.png){style="max-width:70%; margin: 1.2rem 0;"}
+
 ### Book on *Klimamodellierung verstehen* (Understanding Climate Modeling)
 
 I co-wrote and illustrated a popular science text book on climate modeling, to be published in German by Springer Nature in Summer of 2026. The book is intended for a general audience, and covers the basics of climate modeling, how models work, and what they can and cannot do. Fingers crossed for an English edition in the future!
-
-![](assets/images/comms/Abb2.9.png){style="max-width:70%; margin: 1.2rem 0;"}
-
 
 
 ---
