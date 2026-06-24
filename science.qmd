@@ -8,9 +8,9 @@ My research explores how ecosystems recover after disturbances under shifting cl
 
 ### In Review/ Submitted
 
-- Pottinger, A. S., Gondek, N., **Layritz, L. S.**, Zomer, M. A., Graver, N., Anderson-You, A., and Weltman-Fahs, M. Josh: *Efficient, Portable, and Scalable Cross-Disciplinary Vegetation Modeling via Domain-Specific Language.* 
+- Pottinger, A. S., Gondek, N., **Layritz, L. S.**, Zomer, M. A., Graver, N., Anderson-You, A., and Weltman-Fahs, M. *Josh: Efficient, Portable, and Scalable Cross-Disciplinary Vegetation Modeling via Domain-Specific Language.* 2026
 
-- **Layritz, L. S.**, Boettiger, C., Pavlyukevich, I., Kuehn, C., Rammig, A. *Apparent Bistability Masks Resilience in the Boreal Forest*.
+- **Layritz, L. S.**, Boettiger, C., Pavlyukevich, I., Kuehn, C., Rammig, A. *Apparent Bistability Masks Resilience in the Boreal Forest.* 2026
 
 ### In press
 
