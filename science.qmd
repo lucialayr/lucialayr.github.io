@@ -1,60 +1,25 @@
 ---
-title: ""
+title: "Research"
 pagetitle: "Science — Lucia S. Layritz"
 ---
 
-```{=html}
-<div class="page-header">
-  <p class="category">Science</p>
-  <h1>Research</h1>
-  <p style="max-width:600px; color:#444; margin-top:0.8rem;">
-    My research explores how ecosystems recover after disturbances under shifting climates. I combine dynamic vegetation modelling, remote sensing, and statistical approaches to understand resilience and inform climate adaptation strategies.
-  </p>
-</div>
-```
+My research explores how ecosystems recover after disturbances under shifting climates. I combine dynamic vegetation modelling, remote sensing, and statistical approaches to understand resilience and inform climate adaptation strategies.
 
-### Publications
+### In press
 
-```{=html}
-<ul class="pub-list">
+- **Layritz, L. S.**, Anand, M., Kim, J. E., Meyer, B. F., Gregor, K., Pugh, T. A. M., Boettiger, C., Buras, A., Rammig, A. *Warming drives large-scale shifts in post-disturbance vegetation dynamics and expansion of deciduous trees in the boreal forest in a dynamic vegetation model*. 2026. JGR Biogeosciences.
 
-  <li>
-    <span class="pub-year">2025</span>
-    Early warning signs for tipping points in systems with non-Gaussian-stable noise.<br>
-    <span class="pub-journal">Scientific Reports</span> ·
-    <a href="https://www.nature.com/articles/s41598-025-88659-0" target="_blank">doi</a>
-  </li>
+### Published
 
-  <li>
-    <span class="pub-year">2025</span>
-    Disentangling future effects of climate change and forest disturbance on vegetation composition and land surface properties of the boreal forest.<br>
-    <span class="pub-journal">Biogeosciences</span> ·
-    <a href="https://bg.copernicus.org/articles/22/3635/2025/" target="_blank">doi</a>
-  </li>
+- **Layritz, L. S.**, Rammig, A., Pavlyukevich, I., Kuehn, C. *Early warning signs for tipping points in systems with non-Gaussian-stable noise*. 2025. Scientific Reports. [https://doi.org/10.1038/s41598-025-88659-0](https://doi.org/10.1038/s41598-025-88659-0)
 
-  <li>
-    <span class="pub-year">2024</span>
-    Frost matters: Incorporating late-spring frost in a dynamic vegetation model regulates regional productivity dynamics in European beech forests.<br>
-    <span class="pub-journal">Biogeosciences</span> ·
-    <a href="https://bg.copernicus.org/articles/21/1355/2024/" target="_blank">doi</a>
-  </li>
+- **Layritz, L. S.**, Gregor, K., Krause, A., Kruse, S., Meyer, B. F., Pugh, T., Rammig, A. *Disentangling future effects of climate change and forest disturbance on vegetation composition and land-surface properties of the boreal forest*. 2025. Biogeosciences. [https://doi.org/10.5194/bg-22-3635-2025](https://doi.org/10.5194/bg-22-3635-2025)
 
-  <li>
-    <span class="pub-year">2022</span>
-    Quantifying the impacts of land cover change on gross primary productivity globally.<br>
-    <span class="pub-journal">Scientific Reports</span> ·
-    <a href="https://www.nature.com/articles/s41598-022-23120-0" target="_blank">doi</a>
-  </li>
+- Meyer, B. F., Buras, A., Gregor, K., **Layritz, L. S.**, Principe, A., Kreyling, J., Rammig, A., Zang, C. S. *Frost matters: Incorporating late-spring frost in a dynamic vegetation model regulates regional productivity dynamics in European beech forests*. 2024. Biogeosciences. [https://doi.org/10.5194/bg-21-1355-2024](https://doi.org/10.5194/bg-21-1355-2024)
 
-  <li>
-    <span class="pub-year">2021</span>
-    The potential of direct steam cracker electrification and carbon capture &amp; utilization via oxidative coupling of methane as decarbonization strategies for the chemical industry.<br>
-    <span class="pub-journal">Applied Energy</span> ·
-    <a href="https://www.sciencedirect.com/science/article/pii/S0306261921005079" target="_blank">doi</a>
-  </li>
+- Krause, A., Papastefanou, P., Gregor, K., **Layritz, L. S.**, Zang, C. S., Buras, A., Li, X., Xiao, J., Rammig, A. *Quantifying the impacts of land cover change on gross primary productivity globally*. 2022. Scientific Reports. [https://doi.org/10.1038/s41598-022-23120-0](https://doi.org/10.1038/s41598-022-23120-0)
 
-</ul>
-```
+- **Layritz, L. S.**, Dolganova, I., Finkbeiner, M., Luderer, G., Penteado, A. T., Ueckerdt, F., Repke, J. *The potential of direct steam cracker electrification and carbon capture & utilization via oxidative coupling of methane as decarbonization strategies for ethylene production*. 2021. Applied Energy. [https://doi.org/10.1016/j.apenergy.2021.117049](https://doi.org/10.1016/j.apenergy.2021.117049)
 
 ### Preprints & Conference Contributions
 

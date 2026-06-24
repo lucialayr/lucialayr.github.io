@@ -10,26 +10,25 @@ Hi, I am Lucia and I am a climate scientist currently based at UC Berkeley.
 
 &thinsp;
 
-I am broadly interested in modelling the impact of extreme events on the coupled land surface - atmosphere system, especially the impact of wildfire and other ecosystem disturbances on vegetation, and the impact of climate change on ecosystem regeneration.
+I am broadly interested in the impact of extreme events on the coupled land surface - atmosphere system, and vegetation recovery dynamics after  wildfire and other ecosystem disturbances. My work spans a wide range of geographies, mostly boreal, mediterranean and Dryland ecosystems
 
 &thinsp;
 
-My research employs complex Global Dynamic Vegetation Models as well as low- dimensional stochastic dynamical systems, where I am particularly interested in heavy-tailed data and model uncertainty across scales.  
+The main tools I use for this are numerical models of varying complexity, which I supplement with observational records from long-term monitoring and field campaigns as well as satellite data. 
+
 
 &thinsp;
 
-My work aims to inform strategies for climate adaptation and ecological resilience, and I work closely with land managers and ecologist in U.S. National Parks across the Western US.
+My work aims to inform strategies for climate adaptation and ecological resilience, and I work closely with land managers and ecologists in U.S. National Parks across the Western US.
 
 ```
 
-### Current Position
-
-Postdoctoral Researcher, [Eric & Wendy Schmidt Center for Data Science and Environment](https://dse.berkeley.edu/people/lucia-layritz), UC Berkeley.
-Supporting the National Park Service Climate Change Decision Support project.
 
 ### Education
 
 - **PhD** Life Science *Technical University of Munich*
 - **MSc** Mathematical Modelling *King's College London, UK*
 - **MSc** Environmental Science and Engineering *Technical University of Berlin, Germany*
-Research stays: Potsdam Institute for Climate Impact Research · American University of Beirut
+
+
+Research stays: Potsdam Institute for Climate Impact Research, American University of Beirut
